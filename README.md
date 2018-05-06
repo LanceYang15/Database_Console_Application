@@ -3,15 +3,15 @@ Console application that was created to manage databases. Having the ability to 
 
 Methods that this application can run: 
 
-    * create database
-    * select database
-    * enter query to create table
-    * show tables
-    * delete table
-    * add game data
-    * show table data
-    * update table data
-    * delete table data
+   * create database
+   * select database
+   * enter query to create table
+   * show tables
+   * delete table
+   * add game data
+   * show table data
+   * update table data
+   * delete table data
 
 ## Technology Used
   
