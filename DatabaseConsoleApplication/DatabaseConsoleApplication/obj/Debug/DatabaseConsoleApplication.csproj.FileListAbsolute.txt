@@ -1,0 +1,6 @@
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\Debug\DatabaseConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\Debug\DatabaseConsoleApplication.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\008 Database Console Application\project\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\Debug\DatabaseConsoleApplication.pdb
